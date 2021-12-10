@@ -34,7 +34,11 @@ var questi = [{
 }, {
   question: "what I love most to do. \n1. Reading \n2. Roaming \n3. Playing \n4.Riding \n ",
   answer: "1"
-}];
+},{
+  question: "what is my name? \n1.pranay \n2.akash \n3.sandesh \n4.akshay \n",
+  answer: "2"
+}
+];
 
 // Use Loop for call function
 
